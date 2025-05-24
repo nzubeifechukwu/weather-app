@@ -93,3 +93,12 @@ p {
 #temp button:hover {
   background-color: #457b9d;
 }
+
+footer {
+  margin-top: 2rem;
+  font-size: 1rem;
+}
+
+a {
+  color: inherit;
+}

@@ -1,29 +1,18 @@
-# Todo List
+# Weather App
 
-A todo list that lets you keep track of tasks.
+An app that shows the current weather details for a location.
 
-See the [live demo](https://nzubeifechukwu.github.io/todo-list/).
-
-## Features
-
-With this todo list, you can:
-
-- add new tasks
-- edit tasks
-- remove tasks
-- group tasks according to their urgency
-- group tasks by other categories such as "personal", "work" and "other".
-
-Tasks persist between page reloads.
+See the [live demo](https://nzubeifechukwu.github.io/weather-app/).
 
 ## Tools/Languages
 
 - Vanilla JavaScript
 - Vanilla CSS
+- [Visual Crossing](https://www.visualcrossing.com/) weather API
 
 ## Inspiration
 
-This [todo list project](https://www.theodinproject.com/lessons/node-path-javascript-todo-list) is part of [The Odin Project](https://www.theodinproject.com/)'s Full-Stack Web Development (JavaScript) path.
+This [weather app project](https://www.theodinproject.com/lessons/node-path-javascript-weather-app) is part of [The Odin Project](https://www.theodinproject.com/)'s Full-Stack Web Development (JavaScript) path.
 
 ## Contact
 
